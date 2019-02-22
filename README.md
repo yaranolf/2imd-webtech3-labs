@@ -4,7 +4,3 @@
 - In that new branch, create a file Firstname_Lastname.md and add a link to your own public portfolio repository in that document.
 - Create a pull request to contribute your file to this repository
 - Your GIT-lab is done, when your pull request has been accepted and merged into this repository
-
-## Links to student portfolios
-[Willy Wonka](https://www.google.com)
-[Siebe De Celle](https://github.com/siebedc2/2imd-webtech3-portfolio.git)

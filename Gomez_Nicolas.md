@@ -1,1 +1,1 @@
-[Gomez Nicolas] (https://github.com/GomezNicolas/portfolio)
+[Gomez Nicolas](https://github.com/GomezNicolas/portfolio)

@@ -1,4 +1,5 @@
 ## Portfolio Daphne Kinoo
+# Intro
 [link naar portfolio Daphne Kinoo] (https://github.com/kinoodaphne/portfolio-webtech3)
 
 # Week 1 - Git 

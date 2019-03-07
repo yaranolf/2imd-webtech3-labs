@@ -1,5 +1,5 @@
 # webtech3-Portfolio
-Webtech 3 portfolio for labo's.
+Webtech 3 portfolio for labo's.<br>
 Portfolio: [Link Portfolio](https://github.com/LarsPauwels/webtech3-Portfolio.git)
 
 ## Lab 1:

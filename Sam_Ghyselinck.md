@@ -3,3 +3,7 @@
 ## Lab 1 finished
 
 ## Lab 2 finished
+
+## Lab 3 ... in progress
+
+## Lab 4 finished

@@ -13,3 +13,4 @@
 # Week 3 - notes (ES6)
 
 -[lab3](https://github.com/AqsaIntizar/webtech3-portfolio/tree/master/lab3/notes)
+-[link to codepen](https://codepen.io/aqsaintizar/pen/YgBXXg)

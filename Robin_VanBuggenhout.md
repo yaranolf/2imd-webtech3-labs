@@ -18,3 +18,8 @@
 
 ### Codepen IMDstagram
 [Link naar codepen IMDstagram](https://codepen.io/RobinVb/pen/Jzbrdv)
+
+## [Week 4 - API](https://github.com/robinvanbuggenhout/webtech3-portfolio/tree/master/lab4%20-%20App%20API/weather)
+
+### Codepen API - Weather/Giphy
+[Link naar codepen API](https://codepen.io/RobinVb/pen/YgRQdL)
